@@ -105,7 +105,7 @@ copy perintah di bawah ini dan paste di terminal
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-![gambar](/devops26-dumbways-eko-edy-p/asset/install-homebrew.png)
+![gambar](/asset/install-homebrew.png)
 
 2. install virtual box dengan Homebrew
 copy perintah di bawah ini dan paste di terminal
@@ -114,7 +114,7 @@ copy perintah di bawah ini dan paste di terminal
 brew install --cask virtualbox
 ```
 
-![gambar](/devops26-dumbways-eko-edy-p/asset/install-virtualbox.png)
+![gambar](/asset/install-virtualbox.png)
 
 3. download iso ubuntu server 22.04.5 LTS
 
@@ -131,81 +131,81 @@ brew install --cask virtualbox
     - OS: Linux
     - OS Distribution: Ubuntu (ARM 64 bit)
 
-![gambar](/devops26-dumbways-eko-edy-p/asset/isi-konfigurasi-vm.png)
+![gambar](/asset/isi-konfigurasi-vm.png)
   
   - isi konfigurasi hardware
     - **Memory (RAM)** Minimal: `1024 MB` Disarankan: `2048 MB` atau lebih
     - **CPU** 1–2 Core (sesuai spesifikasi Mac)
     - **Disk** Minimal: `20 GB`Disarankan: `40 GB`
 
-![gambar](/devops26-dumbways-eko-edy-p/asset/isi-konfigurasi-hardware-vm.png)
+![gambar](/asset/isi-konfigurasi-hardware-vm.png)
 
   - klik next untuk melihat summary, jika sudah sesuai klik finish.
 
-![gambar](/devops26-dumbways-eko-edy-p/asset/summary.png)
+![gambar](/asset/summary.png)
 
 5. Menjalankan Virtual Machine yang sudah di konfigurasi sebelumnya
 
   - klik button machines di sebelah kiri lalu pilih vm yang sudah di buat sebelumnya dan klik start untuk menjalankannya
 
-![gambar](/devops26-dumbways-eko-edy-p/asset/summary.png)
+![gambar](asset/summary.png)
 
   - klik try or install ubuntu server
-![gambar](/devops26-dumbways-eko-edy-p/asset/install-ubuntu-server.png)
+![gambar](/asset/install-ubuntu-server.png)
 
   - pilih bahasa yang mau di gunakan
-![gambar](/devops26-dumbways-eko-edy-p/asset/pilih-bahasa.png)
+![gambar](/asset/pilih-bahasa.png)
 
   - pilih continue without updating
-![gambar](/devops26-dumbways-eko-edy-p/asset/continue-without-updating.png)
+![gambar](/asset/continue-without-updating.png)
 
   - pilih keyboard varian lalu klik done
-![gambar](/devops26-dumbways-eko-edy-p/asset/keyboard-varian.png)
+![gambar](/asset/keyboard-varian.png)
 
   - pilih tipe instalasi lalu klik done
-![gambar](/devops26-dumbways-eko-edy-p/asset/tipe-instalasi.png)
+![gambar](/asset/tipe-instalasi.png)
 
   - set network configurasi lalu klik done
-![gambar](/devops26-dumbways-eko-edy-p/asset/network-conf.png)
+![gambar](/asset/network-conf.png)
 
   - set proxy addres jika di butuhkan lalu klik done
-![gambar](/devops26-dumbways-eko-edy-p/asset/proxy-conf.png)
+![gambar](/asset/proxy-conf.png)
 
   - menentukan mirror address lalu klik done
-![gambar](/devops26-dumbways-eko-edy-p/asset/mirror-address.png)
+![gambar](/asset/mirror-address.png)
 
   - tentukan storage configuration lalu klik done
-![gambar](/devops26-dumbways-eko-edy-p/asset/storage-conf.png)
+![gambar](/asset/storage-conf.png)
 
   - pastikan summary storage conf nya lalu klik done
-![gambar](/devops26-dumbways-eko-edy-p/asset/summary-storage-conf.png)
+![gambar](/asset/summary-storage-conf.png)
 
   - klik continue pada window pop up
-![gambar](/devops26-dumbways-eko-edy-p/asset/window-popup.png)
+![gambar](/asset/window-popup.png)
 
   - set profile configuration lalu klik done
-![gambar](/devops26-dumbways-eko-edy-p/asset/profile-conf.png)
+![gambar](/asset/profile-conf.png)
 
   - skip upgrade ubuntu pro lalu klik continue
-![gambar](/devops26-dumbways-eko-edy-p/asset/ubuntu-pro.png)
+![gambar](/asset/ubuntu-pro.png)
 
   - install ssh lalu klik done
-![gambar](/devops26-dumbways-eko-edy-p/asset/ssh.png)
+![gambar](/asset/ssh.png)
 
   - pilih feature server snap lalu klik done
-![gambar](/devops26-dumbways-eko-edy-p/asset/feat-snap.png)
+![gambar](/asset/feat-snap.png)
 
   - tunggu proses intalasi sistem selesai
-![gambar](/devops26-dumbways-eko-edy-p/asset/install-system.png)
+![gambar](/asset/install-system.png)
 
   - jika proses intalasi sistem selesai akan muncul pop up untuk reboot, lalu pilih reboot
-![gambar](/devops26-dumbways-eko-edy-p/asset/reboot.png)
+![gambar](/asset/reboot.png)
 
   - setelah reboot selesai login dengn username dan password yang sudah di atur sebelumnya
-![gambar](/devops26-dumbways-eko-edy-p/asset/login.png)
+![gambar](/asset/login.png)
 
   - tampilan jika login berhasil
-![gambar](/devops26-dumbways-eko-edy-p/asset/success-login.png)
+![gambar](/asset/success-login.png)
 
 
 
