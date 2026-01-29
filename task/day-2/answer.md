@@ -6,6 +6,8 @@
   - IP Class C : 192.168.4.xxx
   - CIDR Block : 192.168.11.0/24
 
+![gambar](/task/day-2/asset/eep.drawio.png)
+
 ---
 
 ### 2. perbedaan singkat antara SH (Shell) dan BASH (Bourne-Again Shell)
