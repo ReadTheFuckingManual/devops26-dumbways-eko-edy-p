@@ -132,7 +132,8 @@ if __name__ == "__main__":
 
 ![gambar](/task/week-2/day-5/asset/simple-code-py.png)
 
-    2. izinkan port 5000 bisa di akses, lalu jalankan simple code nya 
+--
+    2. izinkan port `5000` bisa di akses, lalu jalankan `simple code` nya 
 
 ```bash
 # allow port 5000
@@ -144,6 +145,7 @@ python3 app.py
 
 ![gambar](/task/week-2/day-5/asset/start-py.png)
 
+--
     3. buka `browser` dan input `192.168.1.208:5000`
 
 jika berhasil maka tampilan nya seperti ini:
