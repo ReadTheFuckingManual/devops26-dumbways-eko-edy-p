@@ -11,13 +11,13 @@
 
 ### 2. step by step membuat reverse proxy pada `wayshub-frontend`dan set domain menjadi `ekoedyp.xyz`
 
-1. set domain di MacOS
+**1**. set domain di `MacOS`
 
 hasilnya:
 ![gambar](/task/week-2/day-6/asset/host.png)
 
 
-2. install nginx
+**2**. install `nginx`
 
 ```bash
 # install
@@ -27,7 +27,7 @@ sudo apt install nginx
 sudo systemctl status nginx
 ```
 
-3. set configuration untuk reverse proxy
+**3**. set `configuration` untuk `reverse proxy`
 
 ```bash
 # masuk ke folder untuk membuat configuration
@@ -54,7 +54,7 @@ sudo systemctl restart nginx
 
 ![gambar](/task/week-2/day-6/asset/set-conf.png)
 
-4. buka browser lalu input `ekoedyp.xyz:3000`
+*4*. buka browser lalu input `ekoedyp.xyz:3000`
 
 jika berhasil maka akan tampil seperti ini:
 ![gambar](/task/week-2/day-6/asset/ekoedyp.xyz.png)
