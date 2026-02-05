@@ -10,9 +10,9 @@
 
 cara kerjanya:
 
-1. Client mengirim request ke domain (dengan bantuan internet)
+1. Client mengirim request ke domain *(dengan bantuan internet)*
 2. NGINX menerima request
-3. NGINX meneruskan request ke server (bisa ke server 1 atau server 2)
+3. NGINX meneruskan request ke server *(bisa ke server 1 atau server 2)*
 4. server memproses request
 5. server mengirim response ke NGINX
 6. NGINX meneruskan response ke client
